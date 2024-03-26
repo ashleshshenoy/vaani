@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hello</folder>
+	<filename>hello.6688c238-9e1c-459d-bdc5-84350bcfc28c.jpg</filename>
+	<path>/home/ashlesh/Desktop/amazon/college_project/detect/rtd/Tensorflow/workspace/images/collectedimages/hello/hello.6688c238-9e1c-459d-bdc5-84350bcfc28c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hello</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>248</ymin>
+			<xmax>482</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
