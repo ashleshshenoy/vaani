@@ -1,0 +1,26 @@
+<annotation>
+	<folder>travel</folder>
+	<filename>travel.540ec2d6-d96a-400f-9497-9bc31cf166ae.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\travel\travel.540ec2d6-d96a-400f-9497-9bc31cf166ae.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>travel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>452</xmin>
+			<ymin>74</ymin>
+			<xmax>631</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>eat</folder>
+	<filename>eat.e2904048-307a-4ad8-b2e3-210b75d74d5e.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\eat\eat.e2904048-307a-4ad8-b2e3-210b75d74d5e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>249</xmin>
+			<ymin>153</ymin>
+			<xmax>400</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

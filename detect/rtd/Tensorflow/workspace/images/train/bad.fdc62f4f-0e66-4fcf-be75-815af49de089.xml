@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bad</folder>
+	<filename>bad.fdc62f4f-0e66-4fcf-be75-815af49de089.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\bad\bad.fdc62f4f-0e66-4fcf-be75-815af49de089.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>330</ymin>
+			<xmax>362</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>home</folder>
+	<filename>home.c1fb1d5a-8260-4be3-ac58-4d9abfe4da1b.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\home\home.c1fb1d5a-8260-4be3-ac58-4d9abfe4da1b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>home</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>72</ymin>
+			<xmax>347</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>love</folder>
+	<filename>love.1d2a591f-d626-4df4-a2b2-8a0bb2aa691b.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\love\love.1d2a591f-d626-4df4-a2b2-8a0bb2aa691b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>love</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>274</ymin>
+			<xmax>287</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

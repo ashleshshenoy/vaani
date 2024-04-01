@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thankyou</folder>
+	<filename>thankyou.f11e1764-e4fd-4a96-bd99-1f78be4302fb.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\thankyou\thankyou.f11e1764-e4fd-4a96-bd99-1f78be4302fb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thankyou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>244</ymin>
+			<xmax>504</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

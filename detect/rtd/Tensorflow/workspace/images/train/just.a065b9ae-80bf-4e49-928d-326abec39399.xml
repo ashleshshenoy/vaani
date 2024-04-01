@@ -1,0 +1,26 @@
+<annotation>
+	<folder>just</folder>
+	<filename>just.a065b9ae-80bf-4e49-928d-326abec39399.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\just\just.a065b9ae-80bf-4e49-928d-326abec39399.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>just</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>426</xmin>
+			<ymin>321</ymin>
+			<xmax>597</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

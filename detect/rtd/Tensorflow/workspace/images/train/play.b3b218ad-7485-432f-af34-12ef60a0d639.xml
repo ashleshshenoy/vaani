@@ -1,0 +1,26 @@
+<annotation>
+	<folder>play</folder>
+	<filename>play.b3b218ad-7485-432f-af34-12ef60a0d639.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\play\play.b3b218ad-7485-432f-af34-12ef60a0d639.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>play</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>186</ymin>
+			<xmax>337</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

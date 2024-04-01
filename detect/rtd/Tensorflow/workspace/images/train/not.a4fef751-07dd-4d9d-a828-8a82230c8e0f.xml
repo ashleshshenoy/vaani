@@ -1,0 +1,26 @@
+<annotation>
+	<folder>not</folder>
+	<filename>not.a4fef751-07dd-4d9d-a828-8a82230c8e0f.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\not\not.a4fef751-07dd-4d9d-a828-8a82230c8e0f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>not</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>291</ymin>
+			<xmax>400</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

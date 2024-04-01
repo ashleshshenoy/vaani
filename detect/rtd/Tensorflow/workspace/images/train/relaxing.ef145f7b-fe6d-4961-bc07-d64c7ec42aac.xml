@@ -1,0 +1,26 @@
+<annotation>
+	<folder>relaxing</folder>
+	<filename>relaxing.ef145f7b-fe6d-4961-bc07-d64c7ec42aac.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\relaxing\relaxing.ef145f7b-fe6d-4961-bc07-d64c7ec42aac.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>relaxing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>313</ymin>
+			<xmax>408</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

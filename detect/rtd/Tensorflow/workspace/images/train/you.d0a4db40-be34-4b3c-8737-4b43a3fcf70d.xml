@@ -1,0 +1,26 @@
+<annotation>
+	<folder>you</folder>
+	<filename>you.d0a4db40-be34-4b3c-8737-4b43a3fcf70d.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\you\you.d0a4db40-be34-4b3c-8737-4b43a3fcf70d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>you</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>313</ymin>
+			<xmax>340</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+</annotation>

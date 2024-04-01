@@ -1,0 +1,26 @@
+<annotation>
+	<folder>travel</folder>
+	<filename>travel.4f24a155-ff5e-4d95-b842-c0c61921dd49.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\travel\travel.4f24a155-ff5e-4d95-b842-c0c61921dd49.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>travel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>59</ymin>
+			<xmax>280</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>

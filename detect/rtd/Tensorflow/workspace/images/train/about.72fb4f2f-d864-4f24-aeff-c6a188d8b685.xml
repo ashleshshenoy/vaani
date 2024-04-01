@@ -1,0 +1,26 @@
+<annotation>
+	<folder>about</folder>
+	<filename>about.72fb4f2f-d864-4f24-aeff-c6a188d8b685.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\about\about.72fb4f2f-d864-4f24-aeff-c6a188d8b685.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>about</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>256</ymin>
+			<xmax>597</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>

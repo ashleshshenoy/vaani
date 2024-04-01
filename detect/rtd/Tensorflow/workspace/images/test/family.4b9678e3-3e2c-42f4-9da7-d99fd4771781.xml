@@ -1,0 +1,26 @@
+<annotation>
+	<folder>family</folder>
+	<filename>family.4b9678e3-3e2c-42f4-9da7-d99fd4771781.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\family\family.4b9678e3-3e2c-42f4-9da7-d99fd4771781.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>family</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>60</ymin>
+			<xmax>550</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

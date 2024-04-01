@@ -1,12 +1,112 @@
 item { 
-	name:'hello'
+	name:'about'
 	id:1
 }
 item { 
-	name:'yes'
+	name:'drink'
 	id:2
 }
 item { 
-	name:'no'
+	name:'goodbye'
 	id:3
+}
+item { 
+	name:'here'
+	id:4
+}
+item { 
+	name:'just'
+	id:5
+}
+item { 
+	name:'no'
+	id:6
+}
+item { 
+	name:'relaxing'
+	id:7
+}
+item { 
+	name:'sleep'
+	id:8
+}
+item { 
+	name:'travel'
+	id:9
+}
+item { 
+	name:'you'
+	id:10
+}
+item { 
+	name:'bad'
+	id:11
+}
+item { 
+	name:'eat'
+	id:12
+}
+item { 
+	name:'hello'
+	id:13
+}
+item { 
+	name:'home'
+	id:14
+}
+item { 
+	name:'learn'
+	id:15
+}
+item { 
+	name:'not'
+	id:16
+}
+item { 
+	name:'same'
+	id:17
+}
+item { 
+	name:'sorry'
+	id:18
+}
+item { 
+	name:'with'
+	id:19
+}
+item { 
+	name:'busy'
+	id:20
+}
+item { 
+	name:'family'
+	id:21
+}
+item { 
+	name:'help'
+	id:22
+}
+item { 
+	name:'how'
+	id:23
+}
+item { 
+	name:'love'
+	id:24
+}
+item { 
+	name:'play'
+	id:25
+}
+item { 
+	name:'school'
+	id:26
+}
+item { 
+	name:'thankyou'
+	id:27
+}
+item { 
+	name:'work'
+	id:28
 }

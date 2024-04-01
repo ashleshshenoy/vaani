@@ -1,0 +1,26 @@
+<annotation>
+	<folder>school</folder>
+	<filename>school.317f0da2-9c29-45a9-9997-b4da1b25f3a1.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\school\school.317f0da2-9c29-45a9-9997-b4da1b25f3a1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>school</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>21</ymin>
+			<xmax>518</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

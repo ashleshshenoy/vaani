@@ -1,0 +1,26 @@
+<annotation>
+	<folder>learn</folder>
+	<filename>learn.f547f930-64c2-4a66-89e5-1849f37519e9.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\learn\learn.f547f930-64c2-4a66-89e5-1849f37519e9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>learn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>179</ymin>
+			<xmax>313</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>

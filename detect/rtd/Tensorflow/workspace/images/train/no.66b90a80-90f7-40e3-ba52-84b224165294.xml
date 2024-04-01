@@ -1,0 +1,26 @@
+<annotation>
+	<folder>no</folder>
+	<filename>no.66b90a80-90f7-40e3-ba52-84b224165294.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\no\no.66b90a80-90f7-40e3-ba52-84b224165294.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>196</ymin>
+			<xmax>277</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>

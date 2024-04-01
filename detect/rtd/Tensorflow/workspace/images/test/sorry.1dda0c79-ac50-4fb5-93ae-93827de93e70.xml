@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sorry</folder>
+	<filename>sorry.1dda0c79-ac50-4fb5-93ae-93827de93e70.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\sorry\sorry.1dda0c79-ac50-4fb5-93ae-93827de93e70.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sorry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>272</ymin>
+			<xmax>397</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>

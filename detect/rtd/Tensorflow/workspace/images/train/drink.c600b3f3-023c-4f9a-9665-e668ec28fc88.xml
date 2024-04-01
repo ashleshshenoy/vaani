@@ -1,0 +1,26 @@
+<annotation>
+	<folder>drink</folder>
+	<filename>drink.c600b3f3-023c-4f9a-9665-e668ec28fc88.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\drink\drink.c600b3f3-023c-4f9a-9665-e668ec28fc88.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>92</ymin>
+			<xmax>427</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

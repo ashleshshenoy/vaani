@@ -1,0 +1,26 @@
+<annotation>
+	<folder>no</folder>
+	<filename>no.19e21a16-0ec8-4a53-9bfa-90f02d7f6171.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\no\no.19e21a16-0ec8-4a53-9bfa-90f02d7f6171.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>72</ymin>
+			<xmax>534</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>busy</folder>
+	<filename>busy.b5ceed27-6c7e-4511-b0bc-b2897b5420d3.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\busy\busy.b5ceed27-6c7e-4511-b0bc-b2897b5420d3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>busy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>13</ymin>
+			<xmax>557</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

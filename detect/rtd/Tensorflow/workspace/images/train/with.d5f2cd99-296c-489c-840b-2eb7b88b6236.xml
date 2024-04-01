@@ -1,0 +1,26 @@
+<annotation>
+	<folder>with</folder>
+	<filename>with.d5f2cd99-296c-489c-840b-2eb7b88b6236.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\with\with.d5f2cd99-296c-489c-840b-2eb7b88b6236.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>234</ymin>
+			<xmax>388</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

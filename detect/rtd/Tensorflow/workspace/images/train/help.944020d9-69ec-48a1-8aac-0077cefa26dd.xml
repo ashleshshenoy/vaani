@@ -1,0 +1,26 @@
+<annotation>
+	<folder>help</folder>
+	<filename>help.944020d9-69ec-48a1-8aac-0077cefa26dd.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\help\help.944020d9-69ec-48a1-8aac-0077cefa26dd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>help</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>305</ymin>
+			<xmax>343</xmax>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>here</folder>
+	<filename>here.a06bd76e-3fe1-42b9-a0ea-eacfe133150b.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\here\here.a06bd76e-3fe1-42b9-a0ea-eacfe133150b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>here</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>333</ymin>
+			<xmax>627</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>goodbye</folder>
+	<filename>goodbye.599a71d0-a709-442e-8043-9ac060e56234.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\goodbye\goodbye.599a71d0-a709-442e-8043-9ac060e56234.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>goodbye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>190</ymin>
+			<xmax>450</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>

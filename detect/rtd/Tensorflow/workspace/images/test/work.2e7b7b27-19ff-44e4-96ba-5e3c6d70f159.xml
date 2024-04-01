@@ -1,0 +1,26 @@
+<annotation>
+	<folder>work</folder>
+	<filename>work.2e7b7b27-19ff-44e4-96ba-5e3c6d70f159.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\work\work.2e7b7b27-19ff-44e4-96ba-5e3c6d70f159.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>work</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>264</ymin>
+			<xmax>474</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hello</folder>
+	<filename>hello.1e28e6b6-86a3-4048-9930-49910f29505b.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\hello\hello.1e28e6b6-86a3-4048-9930-49910f29505b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>201</ymin>
+			<xmax>269</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+</annotation>

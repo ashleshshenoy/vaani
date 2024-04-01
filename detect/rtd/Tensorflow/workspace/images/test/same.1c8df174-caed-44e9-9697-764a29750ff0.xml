@@ -1,0 +1,26 @@
+<annotation>
+	<folder>same</folder>
+	<filename>same.1c8df174-caed-44e9-9697-764a29750ff0.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\same\same.1c8df174-caed-44e9-9697-764a29750ff0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>same</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>405</xmin>
+			<ymin>158</ymin>
+			<xmax>640</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

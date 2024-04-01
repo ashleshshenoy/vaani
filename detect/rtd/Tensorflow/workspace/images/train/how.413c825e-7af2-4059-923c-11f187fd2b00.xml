@@ -1,0 +1,26 @@
+<annotation>
+	<folder>how</folder>
+	<filename>how.413c825e-7af2-4059-923c-11f187fd2b00.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\how\how.413c825e-7af2-4059-923c-11f187fd2b00.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>how</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>89</ymin>
+			<xmax>397</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

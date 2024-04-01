@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sleep</folder>
+	<filename>sleep.15045d4c-6e32-425a-bfe4-008b983ea8fe.jpg</filename>
+	<path>C:\Users\shawn\OneDrive\Desktop\dataset\dataset\sleep\sleep.15045d4c-6e32-425a-bfe4-008b983ea8fe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sleep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>172</ymin>
+			<xmax>283</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>
