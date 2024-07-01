@@ -3,6 +3,8 @@
 **Vaani ISL** is an innovative Indian Sign Language project designed to facilitate both sign language generation and detection, providing a comprehensive conversational experience. This project aims to bridge the communication gap between hearing and deaf individuals, enhancing their ability to converse seamlessly.
 ![snap](https://github.com/ashleshshenoy/vaani/assets/73695378/4ff5613e-afa3-4c5e-9cb1-85aba67065f9)
 
+
+
 ## Key Features ✨
 
 ![usecase drawio](https://github.com/ashleshshenoy/vaani/assets/73695378/21964c2f-0926-44e8-8fcf-29a7208015b2)
@@ -17,9 +19,13 @@
 
 - **User-Friendly Interface**: Features an easy-to-use user interface, making it accessible for users of all ages and technical backgrounds. The intuitive design enhances the conversational ability for both hearing and deaf individuals.
 
+
+
 ## Technical Details 🛠️
 
 ![architecture drawio](https://github.com/ashleshshenoy/vaani/assets/73695378/a8253f1c-733d-4ecd-b972-6a5c75023e28)
+
+
 ![seq drawio](https://github.com/ashleshshenoy/vaani/assets/73695378/8dc43697-d996-4c59-9e19-342023ada79b)
 
 
@@ -28,6 +34,8 @@
 - **AWS S3 Integration**: Videos are stored and retrieved from AWS S3, enabling reliable and high-performance access to sign gesture videos.
 
 - **TensorFlow MobileNetV2**: The choice of MobileNetV2 ensures that our object detection model runs efficiently on mobile devices, maintaining high accuracy and speed.
+
+
 
 
 ## Contributing 🤝
